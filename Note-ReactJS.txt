@@ -1,0 +1,51 @@
+==== Buoi 1 =====
+    * Stateful component: class; demo baitap1
+    * Stateless component: function; demo baitap2
+
+npm install jquery popper.js bootstrap --save
+
+============== Buoi 2 ==============
+* Rendering Elements: {}
+* Handling Events: onClick
+* State
+* List keys
+
+============== Buoi 3 ==============
+* Props
+    + class: mặc định có this.props
+    + function: phải có tham số props trên function
+* Lifting State Up
+* Bài tập giỏ hàng
+
+============== Buoi 4 ==============
+* Bài tập giỏ hàng (tt)
+* Bài tập Usermanagement
+    - Edit: componentWillReceiveProps
+
+============== Buoi 5 ==============
+* Bài tập Usermanagement (done)
+* Redux
+    npm install redux --save
+	npm install react-redux --save
+	
+	- Action
+	- Reducer
+		+ Root
+		+ Child
+	- Store: quản lý state (chứa dữ liệu)
+	
+	- mapStateToProps: Chuyển state => props khi kéo dữ liệu từ store về
+	- mapDispatchToProps: Gửi action lên store
+
+============== Buoi 6 ==============
+* Bài tập Usermanagement Redux (done)
+
+============== Buoi 7 ==============
+* Lifecycle
+* Form validation
+
+
+fe35reactrouting
+  - bootstrap jquery popper.js
+  - redux:
+	-rootReducer: {}
